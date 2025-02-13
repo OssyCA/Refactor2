@@ -1,0 +1,18 @@
+{
+    "User": "Ossy",
+    "arbetsplats": [
+        {
+            "namn": "KTH",
+            "adress": "Valhallavägen 79, 114 28 Stockholm"
+        },
+        {
+            "namn": "KTHdd",
+            "adress": "Valhallavägen 79, 114 28 Stockholm"
+        },
+        {
+            "namn": "KTH",
+            "adress": "Valhallavägen 79, 114 28 Stockholm"
+        }
+    ]
+    
+}
